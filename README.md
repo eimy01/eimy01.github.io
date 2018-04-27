@@ -15,7 +15,7 @@
 <a href="https://eimy01.github.io/practica5.html">Practica #5 MENU RESPONSIVOS </a>
   </p>
    <p>
-<a href="https://eimy01.github.io/practica6.html">Practica #6 ICONOS</a>
+<a href="https://eimy01.github.io/practica6 (1).html">Practica #6 ICONOS</a>
   </p>
   <p>
 <a href="https://eimy01.github.io/practica7.html">Practica #7 CARRUSEL</a>
